@@ -6,7 +6,7 @@
 |---|---|---|
 | Mérida, México | Remoto y Presencial | Vigente |
 
-GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: *(agregar URL de GitHub Pages aquí una vez publicada)*
+Correo: [yordanidev@gmail.com](mailto:yordanidev@gmail.com) · WhatsApp: [+52 999 458 5174](https://wa.me/529994585174) · GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: [yordanidev.github.io/cv](https://yordanidev.github.io/cv/)
 
 ---
 
