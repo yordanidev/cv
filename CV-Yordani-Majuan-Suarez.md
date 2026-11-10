@@ -24,9 +24,11 @@ GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: *(
 **Grupo Doxa (Proquimia) | Mayo 2026 - Presente**
 - Capturista y responsable del uso del sistema ERP Alpha (FoxPro) para la operación diaria de la empresa.
 - Soporte técnico a usuarios internos en el uso de sistemas y equipos de la empresa.
-- Desarrollo de ProquimiaApp: intranet/ERP interno (Django) con módulos de almacén, producción, RR.HH./checador, reportes y asistente de IA integrado (ProquiBot).
-- Diseño de un pipeline ETL propio (Python/numpy) para sincronizar datos del ERP Alpha (DBF) con PostgreSQL.
-- Integración y sincronización del reloj checador biométrico (ZKTeco) con la base de RR.HH.
+- Desarrollo de **ProquimiaApp**, una intranet/ERP interno (Django) que centraliza almacén, producción, RR.HH./checador y reportes en una sola plataforma, reduciendo la dependencia de procesos manuales sobre el sistema legado FoxPro y agilizando el acceso a la información entre áreas.
+- Incorporación de un asistente de IA (**ProquiBot**) dentro de ProquimiaApp para resolver consultas internas de forma autónoma, disminuyendo la carga de soporte técnico y el tiempo de respuesta a los usuarios.
+- Automatización de reportes (PDF/Excel) que antes se generaban manualmente, reduciendo tiempo operativo y margen de error del área administrativa.
+- Diseño de un pipeline ETL propio (Python/numpy) que sincroniza automáticamente los datos del ERP Alpha (DBF) con PostgreSQL, eliminando captura duplicada de información.
+- Integración y sincronización del reloj checador biométrico (ZKTeco) con la base de RR.HH., automatizando el control de asistencia.
 - Documentación del modelo de datos del ERP Alpha para dar soporte a herramientas internas y agentes de IA.
 
 ### Jefe de Operaciones y Mantenimiento
