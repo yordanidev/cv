@@ -20,18 +20,21 @@ GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: *(
 
 ## Experiencia Profesional
 
-### Administrador de Clientes Remotos
-**Centro Provincial de Cultura, Granma, Cuba | 2017 - 2018**
-- Gestión y soporte de clientes remotos, garantizando la conectividad y el acceso a los sistemas del centro.
-- Monitoreo y resolución de incidencias técnicas de usuarios remotos.
-- Configuración y mantenimiento de equipos y redes internas.
-- Soporte en la administración de software y plataformas utilizadas en la institución.
+### Encargado de Sistemas
+**Grupo Doxa (Proquimia) | Mayo 2026 - Presente**
+- Capturista y responsable del uso del sistema ERP Alpha (FoxPro) para la operación diaria de la empresa.
+- Soporte técnico a usuarios internos en el uso de sistemas y equipos de la empresa.
+- Desarrollo de ProquimiaApp: intranet/ERP interno (Django) con módulos de almacén, producción, RR.HH./checador, reportes y asistente de IA integrado (ProquiBot).
+- Diseño de un pipeline ETL propio (Python/numpy) para sincronizar datos del ERP Alpha (DBF) con PostgreSQL.
+- Integración y sincronización del reloj checador biométrico (ZKTeco) con la base de RR.HH.
+- Documentación del modelo de datos del ERP Alpha para dar soporte a herramientas internas y agentes de IA.
 
-### Desarrollador de Sistemas de Información Geográfica (SIG)
-**GeoCuba, Cuba | 2018 - 2020**
-- Desarrollo y mantenimiento de sistemas de información geográfica utilizando QGIS y MapInfo.
-- Implementación de herramientas para el análisis y la visualización de datos geoespaciales.
-- Integración de bases de datos y automatización de procesos relacionados con SIG.
+### Jefe de Operaciones y Mantenimiento
+**IDY, Mérida, México | Agosto 2024 - Febrero 2025**
+- Supervisión y coordinación de operaciones de mantenimiento de sistemas fotovoltaicos.
+- Gestión de equipos técnicos y asignación de tareas para optimizar la eficiencia operativa.
+- Monitoreo de rendimiento de los sistemas y detección temprana de fallos.
+- Implementación de protocolos de mantenimiento preventivo y correctivo para prolongar la vida útil de los equipos.
 
 ### Administrador de Redes
 **Centro Provincial de Salud, Las Tunas, Cuba | 2020 - 2023**
@@ -41,16 +44,24 @@ GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: *(
 - Monitoreo del rendimiento de la red y resolución de incidencias críticas.
 - Respaldo y recuperación de datos para garantizar la continuidad operativa.
 
-### Jefe de Operaciones y Mantenimiento
-**IDY, Mérida, México | Agosto 2024 - Febrero 2025**
-- Supervisión y coordinación de operaciones de mantenimiento de sistemas fotovoltaicos.
-- Gestión de equipos técnicos y asignación de tareas para optimizar la eficiencia operativa.
-- Monitoreo de rendimiento de los sistemas y detección temprana de fallos.
-- Implementación de protocolos de mantenimiento preventivo y correctivo para prolongar la vida útil de los equipos.
+### Desarrollador de Sistemas de Información Geográfica (SIG)
+**GeoCuba, Cuba | 2018 - 2020**
+- Desarrollo y mantenimiento de sistemas de información geográfica utilizando QGIS y MapInfo.
+- Implementación de herramientas para el análisis y la visualización de datos geoespaciales.
+- Integración de bases de datos y automatización de procesos relacionados con SIG.
+
+### Administrador de Clientes Remotos
+**Centro Provincial de Cultura, Granma, Cuba | 2017 - 2018**
+- Gestión y soporte de clientes remotos, garantizando la conectividad y el acceso a los sistemas del centro.
+- Monitoreo y resolución de incidencias técnicas de usuarios remotos.
+- Configuración y mantenimiento de equipos y redes internas.
+- Soporte en la administración de software y plataformas utilizadas en la institución.
 
 ---
 
 ## Proyectos Destacados (desarrollo propio)
+
+*Desarrollados en el marco del puesto en Grupo Doxa (Proquimia), salvo donde se indique.*
 
 - **ProquimiaApp** — Sistema intranet/ERP (Django) para empresa química: almacén, producción, RR.HH./checador, reportes PDF/Excel, sincronización con ERP legado FoxPro y asistente de IA integrado (ProquiBot).
 - **BusAlerta** ([busalert.yordanilab.uk](https://busalert.yordanilab.uk)) — App web (Django) de alertas de llegada de autobús con recarga de tarjeta de transporte vía MercadoPago.
