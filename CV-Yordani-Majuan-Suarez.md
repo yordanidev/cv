@@ -131,4 +131,3 @@ GitHub: [github.com/yordanidev](https://github.com/yordanidev) · Portafolio: *(
 
 - Licencia de conducir vigente tipo C.
 - Vehículo propio.
-- Disponibilidad inmediata para trabajo remoto o presencial.
